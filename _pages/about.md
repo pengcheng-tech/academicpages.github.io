@@ -12,9 +12,22 @@ I am a postdoc at School of Cyber Science and Technology, Zhejiang University, w
 
 I received my Ph.D. degree from Lancaster University, Lancashire, UK, co-supervised by Prof. Utz Roedig and Prof. Jeff Yan. I received my M.Eng degree from Tsinghua University, Beijing, China and received my M.Sc degree from KU Leuven, Leuven, Belgium. I received my B.Eng degree from Beijing University of Posts and Telecommunications. 
 
+<em>Email: peng_cheng [at] zju [dot] edu [dot] cn</b></em>
 
-Our paper about cross-lingual audio Deepfake detection is accepted by The 2023 ACM Web Conference (aka. WWW'2023). 
 
+
+
+---
+permalink: /
+title: "News"
+excerpt: "News"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+[01/2023] Our paper on cross-lingual audio Deepfake detection is accepted by The 2023 ACM Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW). Congrats! 
 
 A data-driven personal website
 ======
