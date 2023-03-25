@@ -18,13 +18,7 @@ I received my Ph.D. degree from Lancaster University, Lancashire, UK, co-supervi
 
 
 ---
-permalink: /
 title: "News"
-excerpt: "News"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 [01/2023] Our paper on cross-lingual audio Deepfake detection is accepted by The 2023 ACM Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW). Congrats! 
