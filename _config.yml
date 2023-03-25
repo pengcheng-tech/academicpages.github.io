@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Peng Cheng"
-  avatar           :  ""
+  avatar           :  "profile.jpg"
   bio              : "Postdoc at Zhejiang University"
-  location         : "Location"
+  location         : "Hangzhou Zhejiang"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hz3kfCEAAAAJ&hl=en"
