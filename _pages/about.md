@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoc at School of Cyber Science and Technology, Zhejiang University, working with Prof. Kui Ren and Prof. Zhongjie Ba. I am interested in using digital signal processing and AI technologies to solve security and privacy problems in the audio domain. 
+
+I received my Ph.D. degree from Lancaster University, Lancashire, UK, co-supervised by Prof. Utz Roedig and Prof. Jeff Yan. I received my M.Eng degree from Tsinghua University, Beijing, China and received my M.Sc degree from KU Leuven, Leuven, Belgium. I received my B.Eng degree from Beijing University of Posts and Telecommunications. 
+
+
+Our paper about cross-lingual audio Deepfake detection is accepted by The 2023 ACM Web Conference (aka. WWW'2023). 
+
 
 A data-driven personal website
 ======
