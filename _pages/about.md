@@ -24,6 +24,8 @@ I received my Ph.D. degree from Lancaster University, Lancashire, UK, co-supervi
 News
 ======
 
-[01/2023] Our paper on cross-lingual audio Deepfake detection is accepted by The 2023 ACM Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW). Congrats! 
+[02/2023] Our paper on cross-lingual audio Deepfake detection is accepted by The 2023 ACM Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW). Congrats! 
+
+[01/2023] Our paper on eavesdropping jamming based on phoneme-based noise is accepted by Network and Distributed System Security (NDSS) Symposium 2023. Congrats!
 
 
