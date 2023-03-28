@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Short Bio
+======
+
 I am a postdoc at School of Cyber Science and Technology, Zhejiang University, working with Prof. Kui Ren and Prof. Zhongjie Ba. I am interested in using digital signal processing and AI technologies to solve security and privacy problems in the audio domain. 
 
 I received my Ph.D. degree from Lancaster University, Lancashire, UK, co-supervised by Prof. Utz Roedig and Prof. Jeff Yan. I received my M.Eng degree from Tsinghua University, Beijing, China and received my M.Sc degree from KU Leuven, Leuven, Belgium. I received my B.Eng degree from Beijing University of Posts and Telecommunications. 
