@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Peng Cheng"
 title_separator          : "-"
-name                     : &name "Peng Cheng"
+name                     : &name "Dr. Peng Cheng"
 description              : &description "Peng's personal website"
 url                      : https://pengcheng-tech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
